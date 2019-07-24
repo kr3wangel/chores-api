@@ -1,0 +1,14 @@
+C:\Code\personal\ChoresApi\bin\Debug\netcoreapp2.2\ChoresApi.deps.json
+C:\Code\personal\ChoresApi\bin\Debug\netcoreapp2.2\ChoresApi.runtimeconfig.json
+C:\Code\personal\ChoresApi\bin\Debug\netcoreapp2.2\ChoresApi.runtimeconfig.dev.json
+c:\Code\personal\ChoresApi\bin\Debug\netcoreapp2.2\ChoresApi.dll
+c:\Code\personal\ChoresApi\bin\Debug\netcoreapp2.2\ChoresApi.pdb
+c:\Code\personal\ChoresApi\obj\Debug\netcoreapp2.2\ChoresApi.csprojAssemblyReference.cache
+c:\Code\personal\ChoresApi\obj\Debug\netcoreapp2.2\ChoresApi.csproj.CoreCompileInputs.cache
+c:\Code\personal\ChoresApi\obj\Debug\netcoreapp2.2\ChoresApi.RazorAssemblyInfo.cache
+c:\Code\personal\ChoresApi\obj\Debug\netcoreapp2.2\ChoresApi.RazorAssemblyInfo.cs
+c:\Code\personal\ChoresApi\obj\Debug\netcoreapp2.2\ChoresApi.AssemblyInfoInputs.cache
+c:\Code\personal\ChoresApi\obj\Debug\netcoreapp2.2\ChoresApi.AssemblyInfo.cs
+c:\Code\personal\ChoresApi\obj\Debug\netcoreapp2.2\ChoresApi.RazorTargetAssemblyInfo.cache
+c:\Code\personal\ChoresApi\obj\Debug\netcoreapp2.2\ChoresApi.dll
+c:\Code\personal\ChoresApi\obj\Debug\netcoreapp2.2\ChoresApi.pdb
